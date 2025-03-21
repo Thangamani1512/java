@@ -1,1 +1,1 @@
-" mmodifying git repository" 
+" modifying git repository" 
